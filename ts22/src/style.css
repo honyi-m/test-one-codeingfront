@@ -1,0 +1,125 @@
+/*  --- COMPONENT STYLES --- (style.css) --- */
+
+/* === Header / Navbar === */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ul-list {
+  display: flex;
+  gap: 20px;
+}
+
+#header {
+  margin-top: 80px;
+}
+
+/* === Hero Section === */
+#hero {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.banner {
+  padding-top: 12px;
+  padding-left: 32px;
+  border-radius: 40px;
+  background-color: #f2624f;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.banner-title {
+  font-size: 48px;
+  font-weight: 900;
+  margin: 0;
+}
+
+.banner-desc {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 24px 0;
+  padding: 0 10px;
+}
+
+.banner img {
+  width: 360px;
+  border-radius: 12px;
+}
+
+/* === Cities Section === */
+.city-1 {
+  width: 233px;
+  height: 278.78px;
+  background-color: #f6f6f2;
+  border-radius: 36px;
+  margin-right: 9px;
+  text-align: center;
+  flex-grow: 1;
+}
+
+.city-2 {
+  display: flex;
+  justify-content: center;
+}
+
+.ci {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+/* === Ready Section === */
+#readyy {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.ready {
+  background-color: #f9f2db;
+}
+
+.ready-2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.h2 {
+  width: 572px;
+  font-size: 36px;
+}
+
+/* === Footer === */
+.foo {
+  font-size: 30px;
+}
+
+.pa-4 {
+  font-size: 16px;
+  color: #929292;
+}
+
+.a-1 {
+  color: red;
+}
+
+.foo-1 {
+  font-size: 32px;
+}
+
+.pa-5 {
+  color: #929292;
+  font-size: 16px;
+}
+
+.footer {
+  background-color: #f6f6f2;
+  padding: 30px 0;
+}
+
+.copyright {
+  font-size: 18px;
+  margin: 0;
+}

@@ -1,0 +1,57 @@
+
+
+/*  --- GLOBAL STYLES --- (index.css) --- */
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto";
+  font-style: normal;
+}
+
+
+.container {
+  width: 980px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.get-head {
+  background-color: #d8460b;
+  color: #ffffff;
+  width: 138px;
+  height: 45px;
+  border-radius: 12px;
+  font-size: 18px;
+  padding: 12px 24px;
+  text-decoration: none;
+}
+
+
+.btn {
+  text-decoration: none;
+  background-color: #d8460b;
+  color: white;
+  border-radius: 12px;
+  padding: 12px 24px;
+  display: inline-block;
+}
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
